@@ -12,6 +12,21 @@ cond1 cond2 ... {
 }
 ```
 
+Conditions
+----
+__Component (Same as `Element` in CSS)__
+```css
+RawImage { outline: #000000FF; }
+```
+__#ObjectName__
+```css
+#MyProfileImage { outline: #000000FF; }
+```
+__.ClassName__
+```css
+.outline { outline: #000000FF; }
+```
+
 Constants
 ----
 ```css
