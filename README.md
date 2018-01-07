@@ -16,7 +16,7 @@ Conditions
 ----
 __ucss__ has 3 kinds of condition specifier.<br>
 Each condition is similar to CSS'.
-<br>
+<br><br>
 __Component (Same as `Element` in CSS)__
 ```css
 RawImage { outline: #000000FF; }
