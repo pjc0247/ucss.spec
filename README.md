@@ -15,9 +15,9 @@ cond1 cond2 ... {
 Constants
 ----
 ```css
-@primary = #0000FFFF;
-@secondary = #000000FF;
-@alert = #FF0000FF;
+@primary: #0000FFFF;
+@secondary: #000000FF;
+@alert: #FF0000FF;
 
 Text {
   color: @primary;
