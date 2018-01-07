@@ -29,7 +29,7 @@ __.ClassName__
 ```css
 .outline { outline: #000000FF; }
 ```
-You can use more than 2 conditions in one style. This works as __'AND'__ operation.
+You can use more than 2 conditions in one style. This will be evaluated as __'AND'__ operation.
 
 Constants
 ----
