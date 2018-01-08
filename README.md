@@ -42,3 +42,16 @@ Text {
   color: @primary;
 }
 ```
+
+Bundle
+----
+```cs
+@H1 {
+  font-style: bold;
+  font-size: 30;
+}
+
+Text {
+  @h1;
+}
+```
