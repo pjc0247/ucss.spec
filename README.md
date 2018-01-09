@@ -12,9 +12,9 @@ cond1 cond2 ... {
 }
 ```
 
-Conditions
+Selectors
 ----
-__ucss__ has 3 kinds of condition specifier.<br>
+__ucss__ has 3 kinds of selector specifier.<br>
 Each condition is similar to CSS'.
 <br><br>
 __Component (Same as `Element` in CSS)__
